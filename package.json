@@ -23,7 +23,7 @@
   },
 
   "lint-staged":{
-    "src/**/*:":["y lint --fix"]
+    "src/**/*:":["yarn lint --fix"]
   },
   
   "devDependencies": {
