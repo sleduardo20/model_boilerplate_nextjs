@@ -3,6 +3,7 @@ const Main: React.FC = () => {
     <div>
       <main>
         <h2>React Avançado</h2>
+        <h2>React ok</h2>
       </main>
     </div>
   );
