@@ -1,11 +1,16 @@
-const Main: React.FC = () => {
+import { Container, Title, Description, Illutration, Logo } from './styles';
+
+const Main = ({ title = 'React Avançado' }) => {
   return (
-    <div>
-      <main>
-        <h2>React Avançado</h2>
-        <h2>React ok</h2>
-      </main>
-    </div>
+    <Container>
+      <Logo src="/img/logo.svg" alt="Logo React Avançado" />
+      <Title>{title}</Title>
+      <Description>Typescript, ReactJS, NextJS e Styled Components</Description>
+      <Illutration
+        src="/img/hero-illustration.svg"
+        alt="Um dev com a tela do código"
+      />
+    </Container>
   );
 };
 
