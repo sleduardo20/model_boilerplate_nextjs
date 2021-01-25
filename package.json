@@ -40,7 +40,7 @@
     "@babel/core": "^7.12.10",
     "@babel/preset-typescript": "^7.10.4",
     "@storybook/addon-actions": "^6.1.14",
-    "@storybook/addon-essentials": "^6.0.28",
+    "@storybook/addon-essentials": "^6.1.15",
     "@storybook/addon-links": "^6.1.15",
     "@storybook/react": "^6.1.11",
     "@testing-library/jest-dom": "^5.11.9",
@@ -57,9 +57,9 @@
     "@types/styled-components": "^5.1.4",
 
     "@typescript-eslint/eslint-plugin": "^4.10.0",
-    "@typescript-eslint/parser": "^4.13.0",
+    "@typescript-eslint/parser": "^4.14.1",
 
-    "@typescript-eslint/eslint-plugin": "^4.13.0",
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
 
     "babel-loader": "^8.1.0",
     "babel-plugin-styled-components": "^1.11.1",
