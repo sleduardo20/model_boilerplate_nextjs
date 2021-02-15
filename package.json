@@ -37,8 +37,12 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.12.13",
+
+    "@babel/core": "^7.12.16",
+
+
     "@babel/preset-typescript": "^7.12.16",
+
     "@storybook/addon-actions": "^6.1.14",
 
     "@storybook/addon-essentials": "^6.1.18",
