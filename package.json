@@ -69,7 +69,7 @@
     "prettier": "^2.0.5",
     "pretty-format": "^26.6.0",
     "react-is": "^17.0.2",
-    "ts-loader": "^9.1.1",
+    "ts-loader": "^9.1.2",
     "typescript": "^4.2.4"
   }
 }
