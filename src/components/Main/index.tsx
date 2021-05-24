@@ -1,6 +1,6 @@
 import { Container, Title, Description, Illutration, Logo } from './styles';
 
-const Main = ({ title = 'React Avançado' }) => {
+export const Main = ({ title = 'React Avançado' }) => {
   return (
     <Container>
       <Logo src="/img/logo.svg" alt="Logo React Avançado" />
@@ -13,5 +13,3 @@ const Main = ({ title = 'React Avançado' }) => {
     </Container>
   );
 };
-
-export default Main;
